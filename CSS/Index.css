@@ -1,0 +1,327 @@
+header{    
+width:1170px;
+height:125px;
+margin:0 auto;
+}
+
+
+ #menu-h{
+width:1170px;
+height:70px;
+background:#000000;
+margin:0 auto;
+text-align:center;
+}
+
+.principal{
+font-size: 25px;
+font-family: Racy Mango;
+
+}
+
+.secundario{
+	margin-top: 0px;
+  font-family:Racy Mango; 
+}
+
+#menu-h a{
+color:#FFF8DC ;
+display: block; 
+padding:15px;
+
+text-decoration:none;
+background:#000000;   
+}
+
+#menu-h a:hover{
+background:#8B008B;
+}
+
+#menu-h li{
+      display:inline-block;
+
+      width:150px;
+      height:30px;
+      font-size: 17px;
+      margin-top: 1px;
+      text-align:center;
+      color:#fff;
+      position:relative;
+}
+
+#menu-h li : hover{
+      background-color:#fff;
+      color:#000;
+      }
+            
+#menu-h li>ul{
+      display:none;
+      }
+
+#menu-h li:hover>ul{
+      display:block;
+      position:absolute;
+      top:40px;
+      left:0px;
+}
+
+body{
+background-image: url("../Imagenes/Fondo_body2.jpeg");
+
+background-size: cover;
+}
+  
+*{
+  cursor: url("../Imagenes/nota.png") ,auto;
+}
+
+
+
+
+
+#contenido{
+	width:1170px;
+height:1060px;
+
+margin:0 auto;
+} 
+
+h1{
+	position: relative;
+bottom:950px;
+font-family: Humble boys demo;
+font-size: 45px; 
+}
+
+table{
+position: relative;
+bottom: 830px;
+}
+
+#PopIn:hover {
+ width:260px;
+  height:281px;
+  } 
+
+  #Kpop:hover {
+ width:260px;
+  height:281px;
+  } 
+
+  #PopIn:hover {
+ width:260px;
+  height:281px;
+  } 
+#PopEs:hover {
+ width:260px;
+  height:281px;
+  } 
+
+#Rancheras:hover {
+ width:260px;
+  height:281px;
+  } 
+
+
+#historia{
+	width:1170px;
+  height:600px;
+  background-color:#FFE4E1;
+bottom: 810px;
+position: relative;
+margin:0 auto;
+}
+
+#foto{
+  width:400px;
+  height:400px;
+  background-color:#F0F8FF;
+  float: right;
+margin: 35px;
+
+}
+
+#Gif{
+: 1000px;
+
+margin:25px;
+
+}
+#SN{
+  width:670px;
+  height:530px;
+  background-color:#F08080;
+float:left;
+margin:15px;
+text-align:center;
+font-family:Almond Nougat;
+font-size: 30px; 
+
+}
+
+h2{
+font-family: Humble boys demo;
+font-size: 35px; 
+ color: #DC143C;
+
+}
+
+h3{
+ color: #8B008B;
+ font-size: 40px;
+}
+
+#frase{
+color:#191970;
+font-size: 36px; 
+font-family:Almond Nougat;
+
+}
+
+h4{
+position: relative;
+bottom:710px;
+text-align: center;
+font-family: Humble boys demo;
+font-size: 45px; 
+
+
+}
+
+h5{
+position: relative;
+bottom:650px;
+text-align: center;
+font-family: Humble boys demo;
+font-size: 45px; 
+
+
+}
+
+#marca{
+  font-family:Almond Nougat;
+  font-size: 30px;
+  color:darkslategrey; 
+}
+
+
+
+
+#Tendencias{
+  width:1170px;
+  height:520px;
+  background-color:#40E0D0;
+bottom: 700px;
+position: relative;
+margin:0 auto;
+}
+
+/*#Fototend{
+  width:550px;
+  height:500px;
+  background-color:#F0F8FF;
+  float: right;
+margin: 35px;
+
+}*/
+
+#Photo{
+margin:23px;
+  float: right;
+  
+
+}
+#información{
+  width:525px;
+  height:360px;
+  background-color:#FAFAD2;
+float:left;
+margin:23px;
+
+text-align:center;
+font-family:Almond Nougat;
+font-size: 30px; 
+
+}
+
+#pagina{
+  width:1170px;
+  height:590px;
+  /*background-color:#C71585  ;*/
+bottom: 570px;
+position: relative;
+margin:0 auto;
+}
+
+
+
+#banner{
+margin:1px;
+  float: left;
+  
+
+}
+#Facebook{
+width:469px;
+  height:400px;
+  /*background-color:#F0F8FF;*/
+  float: left;
+margin: 35px;
+
+
+}
+#web{
+  width:560px;
+  height:300px;
+  background-color:#F0F8FF;
+float:right;
+margin:35px;
+
+text-align:center;
+font-family:orange juice;
+font-size: 30px; 
+
+}
+
+#primero{
+font-family:Racy Mango;
+color:#FFFFFF;
+font-size: 25px;
+
+}
+
+#segundo{
+font-family:Racy Mango;
+color:#FFFFFF;
+font-size: 25px;
+
+}
+
+#tercero{
+font-family:Racy Mango;
+color:#FFFFFF;
+font-size: 25px;
+
+}
+
+#ultimo{
+bottom: 20px;
+
+}
+
+footer {
+position:relative;
+margin-top: -40px;
+height: 100px;
+padding:7px 0px;
+clear: both;
+background:#008080 ;
+color:#F08080;
+text-align: center;
+}
+
+
+
+
+
+

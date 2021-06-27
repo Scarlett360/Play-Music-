@@ -1,0 +1,125 @@
+header{    
+width:1170px;
+height:125px;
+margin:0 auto;
+
+ }
+
+
+ #menu-h{
+width:1170px;
+height:70px;
+background:#000000;
+margin:0 auto;
+text-align:center;
+}
+
+.principal{
+font-size: 25px;
+font-family: Racy Mango;
+
+}
+
+.secundario{
+  margin-top: 0px;
+  font-family:Racy Mango; 
+}
+
+#menu-h a{
+color:#FFF8DC ;
+display: block; 
+padding:15px;
+
+text-decoration:none;
+background:#000000;   
+}
+
+#menu-h a:hover{
+background:#8B008B;
+}
+
+#menu-h li{
+      display:inline-block;
+
+      width:150px;
+      height:30px;
+      font-size: 17px;
+      margin-top: 1px;
+      text-align:center;
+      color:#fff;
+      position:relative;
+}
+
+#menu-h li : hover{
+      background-color:#fff;
+      color:#000;
+      }
+            
+#menu-h li>ul{
+      display:none;
+      }
+
+#menu-h li:hover>ul{
+      display:block;
+      position:absolute;
+      top:40px;
+      left:0px;
+}
+
+*{
+  cursor: url("../Imagenes/nota.png") ,auto;
+}
+
+body{
+background-image: url("../Imagenes/Fondo_body2.jpeg");
+
+background-size: cover;
+}
+
+h1{
+font-family:Humble boys demo;
+color:#008080;
+font-size:50px;
+}
+
+#Art:hover {
+ width:260px;
+  height:281px;
+  } 
+
+  footer {
+position:relative;
+margin-top: -40px;
+height: 100px;
+padding:7px 0px;
+clear: both;
+background:#008080 ;
+color:#F08080;
+text-align: center;
+}
+
+#primero{
+font-family:Racy Mango;
+color:#FFFFFF;
+font-size: 25px;
+
+}
+
+#segundo{
+font-family:Racy Mango;
+color:#FFFFFF;
+font-size: 25px;
+
+}
+
+#tercero{
+font-family:Racy Mango;
+color:#FFFFFF;
+font-size: 25px;
+}
+
+#marca{
+  font-family:Almond Nougat;
+  font-size: 30px;
+  color:darkslategrey; 
+}
